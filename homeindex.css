@@ -33,7 +33,11 @@ body{
     width: 100%;
 }
 .phimg {
-    width: 520px;
+    width: 250px;
+    margin-left: 150px;
+}
+h3 {
+    margin-left: 150px;
 }
 footer{
     background-color: #997649;
