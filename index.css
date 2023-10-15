@@ -14,16 +14,17 @@ body{
     padding: 10px;
 }
 .logo {
-    height: 50px;
+    height: 75px;
     width: auto;
     float: left;
     align-items: center;
-    margin-left: 10px;
-    margin-right: 15px;
-    margin-top: 30px;
+    margin: auto;
+    /* margin-left: 10px; */
+    margin-right: 2rem;
+    margin-top: 3rem;
 
 }
-.s {
+.segment {
     margin: 10px;
 }
 .sText{
@@ -31,14 +32,16 @@ body{
 }
 .fi-img {
     width: 100%;
+    margin-top: 5rem;
 }
 .phimg {
-    width: 520px;
+    width: 250px;
 }
-footer{
+
+.feet{
     background-color: #997649;
     margin:0;
-    height: 100px;
+    height: auto;
     padding: 20px;
     width: 100%;
 }
@@ -51,38 +54,16 @@ footer{
     overflow: hidden;
 }
 
-.div1 {
-    height: 100%;
-    width: 800px;
-    /* border: 5px solid red; */
-    float: left;
-}
-.div2 {
-    width: 400px;
-    /* border: 5px solid green; */
-    float: right;
-}
-.div1-1{
-    /* border: 1px solid orange; */
-    float: left;
-    width: 600px;
-
-}
-.div2-1{
-    /* border: 1px solid purple; */
-    float: right;
-    width: 600px
-}
-button {
+.click {
     display: block;
     width: 100%;
-    padding: 5px;
-    margin: 5px;
+    padding: 10px;
     background-color: #03a8e8;
     font-weight: bold;
     color: white;
+    margin: 1rem;
     border: 0;
-    border-radius: 10px;
+
 }
 button:hover{
     background-color: #006188;
@@ -96,4 +77,7 @@ button:active{
 }
 .ibm {
     color: #1f70c1;
+}
+#fi,#wa{
+    margin-top: 5rem;;
 }
