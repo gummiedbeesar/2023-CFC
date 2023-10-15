@@ -2,7 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../../../Downloads/materialize-v1.0.0/materialize"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2023 CFC"
+	}
 }
