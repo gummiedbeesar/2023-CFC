@@ -1,0 +1,99 @@
+body{
+    background-color: #70c573;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.title-bar {
+    background-color: #abeaad;
+    margin: 0;
+    padding: 5px;
+}
+.pageTitle{
+    padding: 10px;
+}
+.logo {
+    height: 50px;
+    width: auto;
+    float: left;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 15px;
+    margin-top: 30px;
+
+}
+.s {
+    margin: 10px;
+}
+.sText{
+    text-indent: 20px;;
+}
+.fi-img {
+    width: 100%;
+}
+.phimg {
+    width: 520px;
+}
+footer{
+    background-color: #997649;
+    margin:0;
+    height: 100px;
+    padding: 20px;
+    width: 100%;
+}
+.container{
+    width: 100%;
+}
+#wrapper {
+    width: 100%;
+    /* border: 1px solid black; */
+    overflow: hidden;
+}
+
+.div1 {
+    height: 100%;
+    width: 800px;
+    /* border: 5px solid red; */
+    float: left;
+}
+.div2 {
+    width: 400px;
+    /* border: 5px solid green; */
+    float: right;
+}
+.div1-1{
+    /* border: 1px solid orange; */
+    float: left;
+    width: 600px;
+
+}
+.div2-1{
+    /* border: 1px solid purple; */
+    float: right;
+    width: 600px
+}
+button {
+    display: block;
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+    background-color: #03a8e8;
+    font-weight: bold;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: #006188;
+}
+button:active{
+    background-color: #70c573;
+    color: black;
+}
+.bgc {
+    color: #791e94;
+}
+.ibm {
+    color: #1f70c1;
+}
